@@ -1,1 +1,1 @@
-# module4
+# As a quanatative analyst for a Fintech investing platform, that offers clients a one stop shop investment solution; I am using algorithms to evaluate four new investment options and include them in client portfolios.
